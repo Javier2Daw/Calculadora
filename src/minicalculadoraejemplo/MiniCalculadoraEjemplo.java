@@ -16,7 +16,7 @@ public class MiniCalculadoraEjemplo {
         double raizCuadradaPrueba;
         raizCuadradaPrueba = raizCuadrada(prueba);
 
-        System.out.println("La raiz cuadrada de " + prueba + " es: " + raizCuadradaPrueba);
+        System.out.println("Version de Ramiro: ------->La raiz cuadrada de " + prueba + " es: " + raizCuadradaPrueba);
     }
     /*
      * @param prueba
