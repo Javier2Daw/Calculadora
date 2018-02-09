@@ -1,9 +1,9 @@
 package minicalculadoraejemplo;
 import java.lang.Math;
-
 /**
- * 
+ *
  * @author Javier
+ * clase que contiene dos metodos encargados de calcular el valor absoluto de un numero y su raiz cuadrada
  */
 public class MiniCalculadoraEjemplo {
 
@@ -18,7 +18,7 @@ public class MiniCalculadoraEjemplo {
 
         System.out.println("La raiz cuadrada de " + prueba + " es: " + raizCuadradaPrueba);
     }
-    /*@aut
+    /*
      * @param prueba
      * @return rtnPrueba 
      * Metodo que obtiene la raizCuadrada del parametro prueba
